@@ -1,0 +1,7 @@
+.DS_Store
+venv
+.ropeproject
+convert.sh
+dl.sh
+run.sh
+*.laz
