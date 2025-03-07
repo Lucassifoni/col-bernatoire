@@ -5,3 +5,5 @@ convert.sh
 dl.sh
 run.sh
 *.laz
+bernatoire/*.3mf
+!bernatoire/project.3mf
